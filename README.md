@@ -1,5 +1,4 @@
 # Digital-Clock-using-Python
-# DIGITAL_CLOCK USING PYTHON
 import tkinter as tk
 from time import strftime
 
